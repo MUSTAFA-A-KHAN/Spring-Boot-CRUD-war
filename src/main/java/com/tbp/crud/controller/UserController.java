@@ -22,7 +22,7 @@ public class UserController {
 	
 	@GetMapping("/")
     public String helloWorld() {
-        return "Hello World!";
+        return "Hello World!!";
     }
 	
 	@PostMapping("/addUser")
