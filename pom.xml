@@ -68,7 +68,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/yourusername/MyJavaPackage</url>
+            <url>https://maven.pkg.github.com/MUSTAFA-A-KHAN/Spring-Boot-CRUD-war</url>
         </repository>
     </distributionManagement>
 </project>
